@@ -1,0 +1,24 @@
+1611015581692	geckodriver	INFO	Listening on 127.0.0.1:56769
+1611015582415	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_g/nxmywqk94tsdlgz97z93j4100000gn/T/rust_mozprofilePNFQM1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611015588996	Marionette	INFO	Listening on port 56781
+1611015589060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611015670860	Marionette	INFO	Stopped listening on port 56781
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611015730849	geckodriver	INFO	Listening on 127.0.0.1:56901
+1611015731867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_g/nxmywqk94tsdlgz97z93j4100000gn/T/rust_mozprofileKFXfzZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611015734679	Marionette	INFO	Listening on port 56912
+1611015734804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611015988167	geckodriver	INFO	Listening on 127.0.0.1:57037
+1611015989186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_g/nxmywqk94tsdlgz97z93j4100000gn/T/rust_mozprofilebIZBFB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611015992215	Marionette	INFO	Listening on port 57048
+1611015992298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611034959941	Marionette	INFO	Stopped listening on port 57048
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611034960674	Marionette	INFO	Stopped listening on port 56912
