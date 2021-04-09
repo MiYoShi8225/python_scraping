@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/miyoshishun/.pyenv/shims/python",
+    "python.analysis.extraPaths": [
+        "/Users/miyoshishun/work/python_scraping",
+    ]
+}
